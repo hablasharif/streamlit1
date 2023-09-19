@@ -1,0 +1,8 @@
+streamlit
+flask
+requests
+bs4
+beautifulsoup4
+gunicorn
+lxml
+urllib3
